@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "-": "^0.0.1",
+    "@arcjet/node": "^1.0.0-beta.4",
     "@types/express": "^4.17.21",
     "@types/mongoose": "^5.11.97",
     "@typescript-eslint/eslint-plugin": "^7.16.1",
