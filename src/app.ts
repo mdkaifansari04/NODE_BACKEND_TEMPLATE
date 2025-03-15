@@ -1,5 +1,3 @@
-import { config } from 'dotenv';
-config();
 import { PORT } from './config/env';
 
 import express from 'express';
