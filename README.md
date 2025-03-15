@@ -20,11 +20,13 @@ This is a simple and scalable Node.js backend template designed to kickstart you
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/mdkaifansari04/NODE_BACKEND_TEMPLATE.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd your-repo-name
    ```
@@ -37,11 +39,13 @@ This is a simple and scalable Node.js backend template designed to kickstart you
 ## Usage
 
 ### Start the development server:
+
 ```bash
 npm run dev
 ```
 
 ### Start the production server:
+
 ```bash
 npm start
 ```
