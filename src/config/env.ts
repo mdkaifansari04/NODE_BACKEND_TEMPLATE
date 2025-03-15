@@ -9,4 +9,4 @@ const envFile = path.resolve(
 
 config({ path: envFile });
 
-export const { PORT, NODE_ENV } = process.env;
+export const { PORT, NODE_ENV, ARCJET_KEY } = process.env;
