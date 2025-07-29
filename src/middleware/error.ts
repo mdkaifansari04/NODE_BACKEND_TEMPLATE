@@ -1,4 +1,4 @@
-import { name } from './../../node_modules/ci-info/index.d';
+
 import { NextFunction, Request, Response } from 'express';
 import ErrorResponse from 'helper/errorResponse';
 

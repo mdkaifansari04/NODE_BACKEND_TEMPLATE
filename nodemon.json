@@ -4,6 +4,6 @@
   "ignore": ["node_modules", "src/**/*.spec.ts", "coverage", "dist"],
   "exec": "ts-node -r tsconfig-paths/register ./src/app.ts",
   "env": {
-    "NODE_ENV": "dev"
+    "NODE_ENV": "development"
   }
 }
